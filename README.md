@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi there, I'm Tinangelle 👋
 
-<!--
-**Tinangelle/tinangelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder & Lead Developer at Ignis Solaris Studio Inc.
 
-Here are some ideas to get you started:
+I'm the founder of Ignis Solaris Studio, an indie studio grounded in psychology, dedicated to providing "micro-healing" through narrative-driven games. We focus on contemporary players facing "universal loneliness" and "efficiency anxiety," aiming to create psychological sanctuaries where players feel "unconditionally loved."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 What I'm Building
+
+🎮 Back to Thawing Valley
+
+Our debut title is a simulation game that rejects utilitarian socializing and repetitive labour. It empowers players as a "Town Leader" with creative and community-building power.
+
+Status: Public Demo in development.
+
+✨ Join Our Journey & Collaborate
+
+💬 Community: Follow our development journey on Red Notes!
+
+🤝 Collaborators: We are actively seeking partners, especially in Art & Music, to bring our vision to life. If our philosophy resonates with you, please get in touch!
+
+🌐 Studio Website: ignissolarisstudio.com
+
+📫 Contact Me: jade.x.du@gmail.com 
