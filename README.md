@@ -14,7 +14,7 @@ Status: Public Demo in development.
 
 ✨ Join Our Journey & Collaborate
 
-💬 Community: Follow our development journey on Red Notes!
+* 💬 **Community:** Join our official **[Discord Server](https://discord.gg/HMEXESt38m)** and follow us on **[Red Notes (小红书)](...)**!
 
 🤝 Collaborators: We are actively seeking partners, especially in Art & Music, to bring our vision to life. If our philosophy resonates with you, please get in touch!
 
