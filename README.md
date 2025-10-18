@@ -18,6 +18,6 @@ Status: Public Demo in development.
 
 🤝 Collaborators: We are actively seeking partners, especially in Art & Music, to bring our vision to life. If our philosophy resonates with you, please get in touch!
 
-🌐 Studio Website: ignissolarisstudio.com
+🌐 Studio Website: https://ignissolarisstudio.com/
 
 📫 Contact Me: jade.x.du@gmail.com 
