@@ -6,7 +6,7 @@ I'm the founder of Ignis Solaris Studio, an indie studio grounded in psychology,
 
 🌱 What I'm Building
 
-🎮 Back to Thawing Valley
+🎮 Let the Whale Breach
 
 Our debut title is a simulation game that rejects utilitarian socializing and repetitive labour. It empowers players as a "Town Leader" with creative and community-building power.
 
